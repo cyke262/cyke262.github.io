@@ -18,10 +18,10 @@ tags:
 ----
 ## 评分
 
-+ 画面表现：**35.5** **<font color=#008000>优秀</font>**
-+ 剧情及人物表现：**30.5** **<font color=#FF8C00>一般</font>**
-+ 配音及配乐表现：**15.5** **<font color=#FF8C00>一般</font>**
-+ 总分：**81.5** **<font color=#00FF00>良好</font>**
++ 画面表现：**35.5** <font color=#008000>优秀</font>
++ 剧情及人物表现：**30.5** <font color=#FF8C00>一般</font>
++ 配音及配乐表现：**15.5** <font color=#FF8C00>一般</font>
++ 总分：**81.5** <font color=#00FF00>良好</font>
 + 评级：**B** 
 
 ## 三句话评价
